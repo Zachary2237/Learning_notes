@@ -1,245 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79323ef3-1bbe-4ea9-b303-110acb761357" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Learning_notes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning_notes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/List_Set/ListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/List_Set/SetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/List_Set/TreeSetTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/List_Set/TreeSetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/List_Set/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/Map/java/CollectionsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/Map/java/MapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/Map/java/PropertiesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/Map/java/TreeMapTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/Map/java/TreeMapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/Map/java/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/Practice/Practice1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/Practice/Practice2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/Practice/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/collection/CollectionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/collection/IteratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter11/collection/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter12/GenericTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter12/GenericTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter12/Lab/lab1/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter12/Lab/lab1/EmployeeTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter12/Lab/lab1/EmployeeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter12/Lab/lab1/MyDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter12/Lab/lab2/DAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter12/Lab/lab2/DAOTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter12/Lab/lab2/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter12/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter12/SubOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter13/BufferedTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter13/FileReaderWriterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter13/FileTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter13/InputStreamReaderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter13/ObjectInputOutputStreamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter13/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter13/Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter13/RandomAccessFileTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter14/InetAddressTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter14/TCPTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter14/TCPTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter14/TCPTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter14/UDPTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part1/ClassLoaderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part1/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part1/ReflectionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/FieldTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/MethodTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/NewInstanceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/OtherTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/ReflectionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/test/Creature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/test/MyAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/test/MyInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/test/Person1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/ClothFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/NikeClothFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/ProxyClothFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/ProxyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/StaticProxyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/AA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Attackable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/BB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Bullet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/CC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Flash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Flyable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/InterfaceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Kite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/NetWork.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/NetWorkTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Plane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/ProxyServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/USB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/USBTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/USBTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/USBTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab1/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab1/CheckAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab1/user.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab2/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab2/HourlyEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab2/MyDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab2/PayrollSystem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab2/SalariedEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab3/EcDef.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab3/EcmDef.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/Cylinder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/CylinderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/Kids.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/KidsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/Mankind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice10/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice10/ComparableCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice10/CompareObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice10/InterfaceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice2/Graduate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice2/InstanceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice2/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice2/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice3/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice3/GeometricObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice3/GeometricTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice3/MyRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice4/EqualsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice4/MyDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice4/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice4/OrderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice5/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice5/GeometricObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice5/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice6/WrapperTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice7/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice7/CircleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice8/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice8/AccountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice9/CommonEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice9/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice9/EmployeeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice9/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Singleton/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Singleton/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Singleton/SingletonTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Singleton/SingletonTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Template/SubTemplate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Template/Template.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Template/TemplateTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/MThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/ThreadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/ThreadTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/Window.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/Window1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/WindowTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/WindowTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/practice11/MyThread1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/practice11/MyThread2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/practice11/ThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/BankTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/CommunicationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/LockTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/NumThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/NumberThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/ThreadNew.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/ThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/ThreadTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/ThreadTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/ThreadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/Window.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/Window2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/Window3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/WindowTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/WindowTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice12/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice12/AccountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice13/Clerk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice13/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice13/ProductTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice13/Productor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter9/CompareTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter9/StringBufferTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Chapter9/StringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper09/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper11/尚硅谷_宋红康_第11章_Java集合.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper12/Lab/lab1/实验1：集合中使用泛型.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper12/Lab/lab2/实验2：自定义泛型类的使用.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper12/尚硅谷_宋红康_第12章_泛型.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper13/Files/Hello.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper13/Files/Object.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper13/Files/copy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper13/Files/copy2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper13/Files/hello2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper13/Files/index.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper13/Files/加密.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper13/Files/吃水2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper13/Files/解密.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper13/apache-common包.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper13/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper13/尚硅谷_宋红康_第13章_IO流.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper13/尚硅谷_宋红康_计算机字符编码.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper14/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper14/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper14/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper14/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper15/尚硅谷_宋红康_第15章_Java反射机制.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/01 Java语言基础.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/02 Java基本语法.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/03 数组.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/04 面向对象1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/05 面向对象2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/06 面向对象3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/07 异常处理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Lab/Lab2/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Lab/Lab3/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Practice/practice10/17.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Practice/practice10/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Practice/practice2/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Practice/practice3/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Practice/practice4/13.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Practice/practice4/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Practice/practice5/13.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Practice/practice5/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Practice/practice6/16.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Practice/practice6/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Practice/practice7/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Practice/practice9/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Project(开发团队人员调度管理系统)/Project(开发人员调度管理系统).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Project(开发团队人员调度管理系统)/TeamSchedule/TeamSchedule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/Singleton/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheaper1_to_7/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheapter08/lesson08_1/practice11/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheapter08/lesson08_2/practice12/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheapter08/lesson08_2/practice13/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheapter08/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/Cheapter08/尚硅谷_宋红康_第8章_多线程.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/domain/Architect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/domain/Designer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/domain/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/domain/Equipment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/domain/NoteBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/domain/PC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/domain/Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/domain/Programmer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/service/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/service/NameListService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/service/Status.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/service/TeamException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/service/TeamService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/view/TSUtility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/view/TeamView.class" beforeDir="false" />
+    <list default="true" id="79323ef3-1bbe-4ea9-b303-110acb761357" name="Changes" comment="Update 2023/1/10">
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/List_Set/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/List_Set/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/List_Set/TreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/Map/java/CollectionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/Map/java/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/Map/java/TreeMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/Practice/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/collection/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/collection/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter12/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter12/GenericTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter12/Lab/lab1/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter12/Lab/lab2/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter12/Lab/lab2/DAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter12/SubOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter13/FileReaderWriterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter13/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter13/InputStreamReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter13/ObjectInputOutputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter13/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter13/RandomAccessFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter14/InetAddressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter14/TCPTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter14/TCPTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter14/UDPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part1/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/NewInstanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/OtherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/test/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/test/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/test/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/ClothFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/NikeClothFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/ProxyClothFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/StaticProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Attackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/BB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Flash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Kite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/NetWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/NetWorkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/ProxyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/USB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/USBTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab1/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab1/CheckAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab3/EcDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab3/EcmDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/KidsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/Mankind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice10/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice10/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice10/CompareObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice10/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice2/InstanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice3/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice3/MyRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice4/EqualsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice4/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice4/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice5/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice7/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice8/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice9/CommonEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice9/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice9/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice9/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Singleton/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Singleton/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Singleton/SingletonTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Singleton/SingletonTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Template/SubTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Template/TemplateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/MThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/ThreadTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/WindowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/WindowTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/practice11/MyThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/practice11/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/practice11/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/CommunicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/LockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/NumThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/ThreadNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/WindowTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/WindowTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice12/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice13/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice13/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice13/Productor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter9/CompareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter9/StringBufferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter9/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/domain/Equipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/service/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/service/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/service/TeamException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/service/TeamService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/view/TeamView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,12 +131,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2K5py62PYBCIvMr3G1eK5032BNc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -275,8 +159,16 @@
       <option name="presentableId" value="Default" />
       <updated>1673274550306</updated>
       <workItem from="1673274551901" duration="1421000" />
-      <workItem from="1673316265469" duration="2312000" />
+      <workItem from="1673316265469" duration="2476000" />
     </task>
+    <task id="LOCAL-00001" summary="Update 2023/1/10">
+      <created>1673318651245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673318651245</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,5 +185,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update 2023/1/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2023/1/10" />
   </component>
 </project>
