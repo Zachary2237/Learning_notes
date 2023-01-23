@@ -96,6 +96,12 @@ Status ListDelete(SqList &L, int i) {
     return OK;
 }
 
+void Union(SqList &La, SqList Lb) {
+    int len_a = GetLength(La);
+    int len_b = GetLength(Lb);
+    
+}
+
 int main() {
 
     SqList L;

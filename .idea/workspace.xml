@@ -1,134 +1,338 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Learning_notes" targetName="SinglyLinkedList" />
+      <config projectName="Learning_notes" targetName="MyLinkedList" />
+      <config projectName="Learning_notes" targetName="Stack" />
+      <config projectName="Learning_notes" targetName="CMakeCXXCompilerId" />
+      <config projectName="Learning_notes" targetName="StructTest" />
+      <config projectName="Learning_notes" targetName="ReferenceTest" />
+      <config projectName="Learning_notes" targetName="SqString" />
+      <config projectName="Learning_notes" targetName="StudentTest" />
+      <config projectName="Learning_notes" targetName="Learning_notes" />
+      <config projectName="Learning_notes" targetName="funcTest" />
+      <config projectName="Learning_notes" targetName="referenceTest1" />
+      <config projectName="Learning_notes" targetName="OtherNameTest" />
+      <config projectName="Learning_notes" targetName="StructTest2" />
+      <config projectName="Learning_notes" targetName="Test" />
+      <config projectName="Learning_notes" targetName="Queue" />
+      <config projectName="Learning_notes" targetName="SqList" />
+      <config projectName="Learning_notes" targetName="LinkList" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="79323ef3-1bbe-4ea9-b303-110acb761357" name="Changes" comment="Update 2023/1/10">
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/List_Set/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/List_Set/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/List_Set/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/Map/java/CollectionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/Map/java/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/Map/java/TreeMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/Practice/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/collection/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter11/collection/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter12/GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter12/GenericTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter12/Lab/lab1/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter12/Lab/lab2/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter12/Lab/lab2/DAOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter12/SubOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter13/FileReaderWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter13/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter13/InputStreamReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter13/ObjectInputOutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter13/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter13/RandomAccessFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter14/InetAddressTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter14/TCPTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter14/TCPTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter14/UDPTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part1/ReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/NewInstanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/OtherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/ReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/test/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/test/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Part2/test/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/ClothFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/NikeClothFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/ProxyClothFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/ProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter15/Proxy/StaticProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/AA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Attackable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/BB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Bullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/CC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Flash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/InterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Kite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/NetWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/NetWorkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/ProxyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/USB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Interface/USBTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab1/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab1/CheckAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab3/EcDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Lab/Lab3/EcmDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/KidsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice1/Mankind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice10/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice10/ComparableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice10/CompareObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice10/InterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice2/InstanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice3/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice3/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice3/MyRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice4/EqualsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice4/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice4/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice5/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice7/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice8/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice9/CommonEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice9/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice9/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Practice/practice9/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Singleton/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Singleton/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Singleton/SingletonTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Singleton/SingletonTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Template/SubTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter1_to_7/Template/TemplateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/MThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/ThreadTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/WindowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/WindowTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/practice11/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/practice11/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_1/practice11/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/BankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/CommunicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/LockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/NumThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/ThreadNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/ThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/WindowTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/WindowTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice12/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice13/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice13/ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter8/lesson08_2/practice13/Productor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter9/CompareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter9/StringBufferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/Chapter9/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/domain/Equipment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/service/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/service/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/service/TeamException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/service/TeamService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaEE/TeamScheduleProject/view/TeamView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-e121971fa8f6dc3e594c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c16210bf1d1b69762634.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-3b691fff1af46d096681.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/src/Chapter1/MyLinkedList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/src/Chapter2/Queue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/src/Chapter2/Stack.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/src/Chapter3/SqString.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/List_Set/ListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/List_Set/SetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/List_Set/TreeSetTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/List_Set/TreeSetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/List_Set/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/Map/java/CollectionsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/Map/java/MapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/Map/java/PropertiesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/Map/java/TreeMapTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/Map/java/TreeMapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/Map/java/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/Practice/Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/Practice/Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/Practice/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/collection/CollectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/collection/IteratorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/collection/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter11/尚硅谷_宋红康_第11章_Java集合.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/GenericTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/GenericTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/Lab/lab1/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/Lab/lab1/EmployeeTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/Lab/lab1/EmployeeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/Lab/lab1/MyDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/Lab/lab1/实验1：集合中使用泛型.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/Lab/lab2/DAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/Lab/lab2/DAOTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/Lab/lab2/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/Lab/lab2/实验2：自定义泛型类的使用.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/SubOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter12/尚硅谷_宋红康_第12章_泛型.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/BufferedTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/FileReaderWriterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/FileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/Files/Hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/Files/Object.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/Files/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/Files/copy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/Files/hello2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/Files/index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/Files/加密.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/Files/吃水2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/Files/解密.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/InputStreamReaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/ObjectInputOutputStreamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/RandomAccessFileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/apache-common包.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/尚硅谷_宋红康_第13章_IO流.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter13/尚硅谷_宋红康_计算机字符编码.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter14/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter14/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter14/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter14/InetAddressTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter14/TCPTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter14/TCPTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter14/TCPTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter14/UDPTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter14/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Part1/ClassLoaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Part1/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Part1/ReflectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Part2/FieldTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Part2/MethodTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Part2/NewInstanceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Part2/OtherTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Part2/ReflectionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Part2/test/Creature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Part2/test/MyAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Part2/test/MyInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Part2/test/Person1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Proxy/ClothFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Proxy/NikeClothFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Proxy/ProxyClothFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Proxy/ProxyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/Proxy/StaticProxyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter15/尚硅谷_宋红康_第15章_Java反射机制.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/01 Java语言基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/02 Java基本语法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/03 数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/04 面向对象1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/05 面向对象2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/06 面向对象3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/07 异常处理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/AA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/Attackable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/BB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/Bullet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/CC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/Flash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/Flyable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/Kite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/NetWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/NetWorkTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/Plane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/ProxyServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/USB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/USBTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/USBTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Interface/USBTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Lab/Lab1/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Lab/Lab1/CheckAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Lab/Lab1/user.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Lab/Lab2/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Lab/Lab2/HourlyEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Lab/Lab2/MyDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Lab/Lab2/PayrollSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Lab/Lab2/SalariedEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Lab/Lab2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Lab/Lab3/EcDef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Lab/Lab3/EcmDef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Lab/Lab3/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice1/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice1/Cylinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice1/CylinderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice1/Kids.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice1/KidsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice1/Mankind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice10/17.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice10/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice10/ComparableCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice10/CompareObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice10/InterfaceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice10/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice2/Graduate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice2/InstanceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice2/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice2/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice3/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice3/GeometricObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice3/GeometricTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice3/MyRectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice3/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice4/13.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice4/EqualsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice4/MyDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice4/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice4/OrderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice4/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice5/13.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice5/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice5/GeometricObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice5/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice5/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice6/16.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice6/WrapperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice6/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice7/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice7/CircleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice7/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice8/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice8/AccountTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice9/CommonEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice9/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice9/EmployeeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice9/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Practice/practice9/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Singleton/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Singleton/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Singleton/SingletonTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Singleton/SingletonTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Singleton/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Template/SubTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Template/Template.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/Template/TemplateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter1_to_7/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_1/MThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_1/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_1/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_1/ThreadTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_1/Window.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_1/Window1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_1/WindowTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_1/WindowTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_1/practice11/MyThread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_1/practice11/MyThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_1/practice11/ThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_1/practice11/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/BankTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/CommunicationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/LockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/NumThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/NumberThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/ThreadNew.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/ThreadPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/ThreadTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/ThreadTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/Window.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/Window2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/Window3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/WindowTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/WindowTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/practice12/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/practice12/AccountTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/practice12/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/practice13/Clerk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/practice13/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/practice13/ProductTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/practice13/Productor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/lesson08_2/practice13/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter8/尚硅谷_宋红康_第8章_多线程.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter9/CompareTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter9/StringBufferTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter9/StringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/Chapter9/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/domain/Architect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/domain/Designer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/domain/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/domain/Equipment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/domain/NoteBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/domain/PC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/domain/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/domain/Programmer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/service/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/service/NameListService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/service/Status.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/service/TeamException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/service/TeamService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/view/TSUtility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/TeamScheduleProject/view/TeamView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaEE_compiled/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Learning_notes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning_notes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/src/Chapter1/LinkList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/src/Chapter1/LinkList.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/src/Chapter1/LinkListHeader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/src/Chapter1/Predefined.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/src/Chapter1/Predefined.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/src/Chapter1/SqList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/src/Chapter1/SqList.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/src/Chapter1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/src/Chapter1/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.1" />
   </component>
   <component name="ProjectId" id="2K5py62PYBCIvMr3G1eK5032BNc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -138,17 +342,136 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tools/com" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Learning_notes\src\DataStructure\src\Chapter1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.SqString">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CMakeCXXCompilerId" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="CMakeCXXCompilerId" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="CMakeCXXCompilerId">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Learning_notes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="Learning_notes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="Learning_notes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="LinkList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="LinkList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLinkedList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="MyLinkedList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="MyLinkedList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OtherNameTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="OtherNameTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="OtherNameTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queue" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="Queue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="Queue">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferenceTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="ReferenceTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="ReferenceTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinglyLinkedList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="SinglyLinkedList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="SinglyLinkedList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="SqList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="SqList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqString" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="SqString" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="SqString">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="Stack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="Stack">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StructTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="StructTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="StructTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StructTest2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="StructTest2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="StructTest2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="StudentTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="StudentTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="Test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="Test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="funcTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="funcTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="funcTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="referenceTest1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Learning_notes" TARGET_NAME="referenceTest1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Learning_notes" RUN_TARGET_NAME="referenceTest1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.CMakeCXXCompilerId" />
+      <item itemvalue="CMake Application.funcTest" />
+      <item itemvalue="CMake Application.Learning_notes" />
+      <item itemvalue="CMake Application.LinkList" />
+      <item itemvalue="CMake Application.MyLinkedList" />
+      <item itemvalue="CMake Application.OtherNameTest" />
+      <item itemvalue="CMake Application.Queue" />
+      <item itemvalue="CMake Application.ReferenceTest" />
+      <item itemvalue="CMake Application.referenceTest1" />
+      <item itemvalue="CMake Application.SinglyLinkedList" />
+      <item itemvalue="CMake Application.SqList" />
+      <item itemvalue="CMake Application.SqString" />
+      <item itemvalue="CMake Application.Stack" />
+      <item itemvalue="CMake Application.StructTest" />
+      <item itemvalue="CMake Application.StructTest2" />
+      <item itemvalue="CMake Application.StudentTest" />
+      <item itemvalue="CMake Application.Test" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -160,6 +483,15 @@
       <updated>1673274550306</updated>
       <workItem from="1673274551901" duration="1421000" />
       <workItem from="1673316265469" duration="2476000" />
+      <workItem from="1673334122073" duration="492000" />
+      <workItem from="1673334938735" duration="7797000" />
+      <workItem from="1673399134565" duration="5104000" />
+      <workItem from="1674007285951" duration="14659000" />
+      <workItem from="1674093203760" duration="1381000" />
+      <workItem from="1674094608764" duration="9291000" />
+      <workItem from="1674180629630" duration="1217000" />
+      <workItem from="1674369850825" duration="2416000" />
+      <workItem from="1674440443695" duration="10081000" />
     </task>
     <task id="LOCAL-00001" summary="Update 2023/1/10">
       <created>1673318651245</created>
@@ -184,11 +516,25 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update 2023/1/10" />
     <option name="LAST_COMMIT_MESSAGE" value="Update 2023/1/10" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="S.ch[1]" />
+        <watch expression="S.ch[2]" />
+        <watch expression="S.ch[3]" />
+        <watch expression="S.ch[4]" />
+        <watch expression="T.ch[1]" />
+        <watch expression="T.ch[2]" />
+        <watch expression="T.ch[3]" />
+        <watch expression="T.ch[3]" />
+        <watch expression="S.ch[2]" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

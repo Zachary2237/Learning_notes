@@ -41,6 +41,550 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = D$:/Learning_notes/cmake-build-debug/
 # =============================================================================
+# Object build statements for EXECUTABLE target CMakeCXXCompilerId
+
+
+#############################################
+# Order-only phony target for CMakeCXXCompilerId
+
+build cmake_object_order_depends_target_CMakeCXXCompilerId: phony || CMakeFiles/CMakeCXXCompilerId.dir
+
+build CMakeFiles/CMakeCXXCompilerId.dir/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj: CXX_COMPILER__CMakeCXXCompilerId_Debug D$:/Learning_notes/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp || cmake_object_order_depends_target_CMakeCXXCompilerId
+  DEP_FILE = CMakeFiles\CMakeCXXCompilerId.dir\CMakeFiles\3.24.2\CompilerIdCXX\CMakeCXXCompilerId.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\CMakeFiles\3.24.2\CompilerIdCXX
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target CMakeCXXCompilerId
+
+
+#############################################
+# Link the executable CMakeCXXCompilerId.exe
+
+build CMakeCXXCompilerId.exe: CXX_EXECUTABLE_LINKER__CMakeCXXCompilerId_Debug CMakeFiles/CMakeCXXCompilerId.dir/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = CMakeCXXCompilerId.exe
+  TARGET_IMPLIB = libCMakeCXXCompilerId.dll.a
+  TARGET_PDB = CMakeCXXCompilerId.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target OtherNameTest
+
+
+#############################################
+# Order-only phony target for OtherNameTest
+
+build cmake_object_order_depends_target_OtherNameTest: phony || CMakeFiles/OtherNameTest.dir
+
+build CMakeFiles/OtherNameTest.dir/src/CPP/OtherNameTest.cpp.obj: CXX_COMPILER__OtherNameTest_Debug D$:/Learning_notes/src/CPP/OtherNameTest.cpp || cmake_object_order_depends_target_OtherNameTest
+  DEP_FILE = CMakeFiles\OtherNameTest.dir\src\CPP\OtherNameTest.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\OtherNameTest.dir
+  OBJECT_FILE_DIR = CMakeFiles\OtherNameTest.dir\src\CPP
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target OtherNameTest
+
+
+#############################################
+# Link the executable OtherNameTest.exe
+
+build OtherNameTest.exe: CXX_EXECUTABLE_LINKER__OtherNameTest_Debug CMakeFiles/OtherNameTest.dir/src/CPP/OtherNameTest.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\OtherNameTest.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = OtherNameTest.exe
+  TARGET_IMPLIB = libOtherNameTest.dll.a
+  TARGET_PDB = OtherNameTest.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ReferenceTest
+
+
+#############################################
+# Order-only phony target for ReferenceTest
+
+build cmake_object_order_depends_target_ReferenceTest: phony || CMakeFiles/ReferenceTest.dir
+
+build CMakeFiles/ReferenceTest.dir/src/CPP/ReferenceTest.cpp.obj: CXX_COMPILER__ReferenceTest_Debug D$:/Learning_notes/src/CPP/ReferenceTest.cpp || cmake_object_order_depends_target_ReferenceTest
+  DEP_FILE = CMakeFiles\ReferenceTest.dir\src\CPP\ReferenceTest.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\ReferenceTest.dir
+  OBJECT_FILE_DIR = CMakeFiles\ReferenceTest.dir\src\CPP
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ReferenceTest
+
+
+#############################################
+# Link the executable ReferenceTest.exe
+
+build ReferenceTest.exe: CXX_EXECUTABLE_LINKER__ReferenceTest_Debug CMakeFiles/ReferenceTest.dir/src/CPP/ReferenceTest.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ReferenceTest.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ReferenceTest.exe
+  TARGET_IMPLIB = libReferenceTest.dll.a
+  TARGET_PDB = ReferenceTest.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target StructTest
+
+
+#############################################
+# Order-only phony target for StructTest
+
+build cmake_object_order_depends_target_StructTest: phony || CMakeFiles/StructTest.dir
+
+build CMakeFiles/StructTest.dir/src/CPP/StructTest.cpp.obj: CXX_COMPILER__StructTest_Debug D$:/Learning_notes/src/CPP/StructTest.cpp || cmake_object_order_depends_target_StructTest
+  DEP_FILE = CMakeFiles\StructTest.dir\src\CPP\StructTest.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\StructTest.dir
+  OBJECT_FILE_DIR = CMakeFiles\StructTest.dir\src\CPP
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target StructTest
+
+
+#############################################
+# Link the executable StructTest.exe
+
+build StructTest.exe: CXX_EXECUTABLE_LINKER__StructTest_Debug CMakeFiles/StructTest.dir/src/CPP/StructTest.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\StructTest.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = StructTest.exe
+  TARGET_IMPLIB = libStructTest.dll.a
+  TARGET_PDB = StructTest.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target StructTest2
+
+
+#############################################
+# Order-only phony target for StructTest2
+
+build cmake_object_order_depends_target_StructTest2: phony || CMakeFiles/StructTest2.dir
+
+build CMakeFiles/StructTest2.dir/src/CPP/StructTest2.cpp.obj: CXX_COMPILER__StructTest2_Debug D$:/Learning_notes/src/CPP/StructTest2.cpp || cmake_object_order_depends_target_StructTest2
+  DEP_FILE = CMakeFiles\StructTest2.dir\src\CPP\StructTest2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\StructTest2.dir
+  OBJECT_FILE_DIR = CMakeFiles\StructTest2.dir\src\CPP
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target StructTest2
+
+
+#############################################
+# Link the executable StructTest2.exe
+
+build StructTest2.exe: CXX_EXECUTABLE_LINKER__StructTest2_Debug CMakeFiles/StructTest2.dir/src/CPP/StructTest2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\StructTest2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = StructTest2.exe
+  TARGET_IMPLIB = libStructTest2.dll.a
+  TARGET_PDB = StructTest2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target StudentTest
+
+
+#############################################
+# Order-only phony target for StudentTest
+
+build cmake_object_order_depends_target_StudentTest: phony || CMakeFiles/StudentTest.dir
+
+build CMakeFiles/StudentTest.dir/src/CPP/StudentTest.cpp.obj: CXX_COMPILER__StudentTest_Debug D$:/Learning_notes/src/CPP/StudentTest.cpp || cmake_object_order_depends_target_StudentTest
+  DEP_FILE = CMakeFiles\StudentTest.dir\src\CPP\StudentTest.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\StudentTest.dir
+  OBJECT_FILE_DIR = CMakeFiles\StudentTest.dir\src\CPP
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target StudentTest
+
+
+#############################################
+# Link the executable StudentTest.exe
+
+build StudentTest.exe: CXX_EXECUTABLE_LINKER__StudentTest_Debug CMakeFiles/StudentTest.dir/src/CPP/StudentTest.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\StudentTest.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = StudentTest.exe
+  TARGET_IMPLIB = libStudentTest.dll.a
+  TARGET_PDB = StudentTest.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Test
+
+
+#############################################
+# Order-only phony target for Test
+
+build cmake_object_order_depends_target_Test: phony || CMakeFiles/Test.dir
+
+build CMakeFiles/Test.dir/src/CPP/Test.cpp.obj: CXX_COMPILER__Test_Debug D$:/Learning_notes/src/CPP/Test.cpp || cmake_object_order_depends_target_Test
+  DEP_FILE = CMakeFiles\Test.dir\src\CPP\Test.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\Test.dir
+  OBJECT_FILE_DIR = CMakeFiles\Test.dir\src\CPP
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Test
+
+
+#############################################
+# Link the executable Test.exe
+
+build Test.exe: CXX_EXECUTABLE_LINKER__Test_Debug CMakeFiles/Test.dir/src/CPP/Test.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Test.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Test.exe
+  TARGET_IMPLIB = libTest.dll.a
+  TARGET_PDB = Test.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target funcTest
+
+
+#############################################
+# Order-only phony target for funcTest
+
+build cmake_object_order_depends_target_funcTest: phony || CMakeFiles/funcTest.dir
+
+build CMakeFiles/funcTest.dir/src/CPP/funcTest.cpp.obj: CXX_COMPILER__funcTest_Debug D$:/Learning_notes/src/CPP/funcTest.cpp || cmake_object_order_depends_target_funcTest
+  DEP_FILE = CMakeFiles\funcTest.dir\src\CPP\funcTest.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\funcTest.dir
+  OBJECT_FILE_DIR = CMakeFiles\funcTest.dir\src\CPP
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target funcTest
+
+
+#############################################
+# Link the executable funcTest.exe
+
+build funcTest.exe: CXX_EXECUTABLE_LINKER__funcTest_Debug CMakeFiles/funcTest.dir/src/CPP/funcTest.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\funcTest.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = funcTest.exe
+  TARGET_IMPLIB = libfuncTest.dll.a
+  TARGET_PDB = funcTest.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target referenceTest1
+
+
+#############################################
+# Order-only phony target for referenceTest1
+
+build cmake_object_order_depends_target_referenceTest1: phony || CMakeFiles/referenceTest1.dir
+
+build CMakeFiles/referenceTest1.dir/src/CPP/referenceTest1.cpp.obj: CXX_COMPILER__referenceTest1_Debug D$:/Learning_notes/src/CPP/referenceTest1.cpp || cmake_object_order_depends_target_referenceTest1
+  DEP_FILE = CMakeFiles\referenceTest1.dir\src\CPP\referenceTest1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\referenceTest1.dir
+  OBJECT_FILE_DIR = CMakeFiles\referenceTest1.dir\src\CPP
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target referenceTest1
+
+
+#############################################
+# Link the executable referenceTest1.exe
+
+build referenceTest1.exe: CXX_EXECUTABLE_LINKER__referenceTest1_Debug CMakeFiles/referenceTest1.dir/src/CPP/referenceTest1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\referenceTest1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = referenceTest1.exe
+  TARGET_IMPLIB = libreferenceTest1.dll.a
+  TARGET_PDB = referenceTest1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target SinglyLinkedList
+
+
+#############################################
+# Order-only phony target for SinglyLinkedList
+
+build cmake_object_order_depends_target_SinglyLinkedList: phony || CMakeFiles/SinglyLinkedList.dir
+
+build CMakeFiles/SinglyLinkedList.dir/src/DataStructure/SinglyLinkedList.cpp.obj: CXX_COMPILER__SinglyLinkedList_Debug D$:/Learning_notes/src/DataStructure/SinglyLinkedList.cpp || cmake_object_order_depends_target_SinglyLinkedList
+  DEP_FILE = CMakeFiles\SinglyLinkedList.dir\src\DataStructure\SinglyLinkedList.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\SinglyLinkedList.dir
+  OBJECT_FILE_DIR = CMakeFiles\SinglyLinkedList.dir\src\DataStructure
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SinglyLinkedList
+
+
+#############################################
+# Link the executable SinglyLinkedList.exe
+
+build SinglyLinkedList.exe: CXX_EXECUTABLE_LINKER__SinglyLinkedList_Debug CMakeFiles/SinglyLinkedList.dir/src/DataStructure/SinglyLinkedList.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SinglyLinkedList.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SinglyLinkedList.exe
+  TARGET_IMPLIB = libSinglyLinkedList.dll.a
+  TARGET_PDB = SinglyLinkedList.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target LinkList
+
+
+#############################################
+# Order-only phony target for LinkList
+
+build cmake_object_order_depends_target_LinkList: phony || CMakeFiles/LinkList.dir
+
+build CMakeFiles/LinkList.dir/src/DataStructure/src/Chapter1/LinkList.cpp.obj: CXX_COMPILER__LinkList_Debug D$:/Learning_notes/src/DataStructure/src/Chapter1/LinkList.cpp || cmake_object_order_depends_target_LinkList
+  DEP_FILE = CMakeFiles\LinkList.dir\src\DataStructure\src\Chapter1\LinkList.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\LinkList.dir
+  OBJECT_FILE_DIR = CMakeFiles\LinkList.dir\src\DataStructure\src\Chapter1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LinkList
+
+
+#############################################
+# Link the executable LinkList.exe
+
+build LinkList.exe: CXX_EXECUTABLE_LINKER__LinkList_Debug CMakeFiles/LinkList.dir/src/DataStructure/src/Chapter1/LinkList.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\LinkList.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = LinkList.exe
+  TARGET_IMPLIB = libLinkList.dll.a
+  TARGET_PDB = LinkList.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target MyLinkedList
+
+
+#############################################
+# Order-only phony target for MyLinkedList
+
+build cmake_object_order_depends_target_MyLinkedList: phony || CMakeFiles/MyLinkedList.dir
+
+build CMakeFiles/MyLinkedList.dir/src/DataStructure/src/Chapter1/MyLinkedList.cpp.obj: CXX_COMPILER__MyLinkedList_Debug D$:/Learning_notes/src/DataStructure/src/Chapter1/MyLinkedList.cpp || cmake_object_order_depends_target_MyLinkedList
+  DEP_FILE = CMakeFiles\MyLinkedList.dir\src\DataStructure\src\Chapter1\MyLinkedList.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\MyLinkedList.dir
+  OBJECT_FILE_DIR = CMakeFiles\MyLinkedList.dir\src\DataStructure\src\Chapter1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target MyLinkedList
+
+
+#############################################
+# Link the executable MyLinkedList.exe
+
+build MyLinkedList.exe: CXX_EXECUTABLE_LINKER__MyLinkedList_Debug CMakeFiles/MyLinkedList.dir/src/DataStructure/src/Chapter1/MyLinkedList.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\MyLinkedList.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = MyLinkedList.exe
+  TARGET_IMPLIB = libMyLinkedList.dll.a
+  TARGET_PDB = MyLinkedList.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target SqList
+
+
+#############################################
+# Order-only phony target for SqList
+
+build cmake_object_order_depends_target_SqList: phony || CMakeFiles/SqList.dir
+
+build CMakeFiles/SqList.dir/src/DataStructure/src/Chapter1/SqList.cpp.obj: CXX_COMPILER__SqList_Debug D$:/Learning_notes/src/DataStructure/src/Chapter1/SqList.cpp || cmake_object_order_depends_target_SqList
+  DEP_FILE = CMakeFiles\SqList.dir\src\DataStructure\src\Chapter1\SqList.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\SqList.dir
+  OBJECT_FILE_DIR = CMakeFiles\SqList.dir\src\DataStructure\src\Chapter1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SqList
+
+
+#############################################
+# Link the executable SqList.exe
+
+build SqList.exe: CXX_EXECUTABLE_LINKER__SqList_Debug CMakeFiles/SqList.dir/src/DataStructure/src/Chapter1/SqList.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SqList.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SqList.exe
+  TARGET_IMPLIB = libSqList.dll.a
+  TARGET_PDB = SqList.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Queue
+
+
+#############################################
+# Order-only phony target for Queue
+
+build cmake_object_order_depends_target_Queue: phony || CMakeFiles/Queue.dir
+
+build CMakeFiles/Queue.dir/src/DataStructure/src/Chapter2/Queue.cpp.obj: CXX_COMPILER__Queue_Debug D$:/Learning_notes/src/DataStructure/src/Chapter2/Queue.cpp || cmake_object_order_depends_target_Queue
+  DEP_FILE = CMakeFiles\Queue.dir\src\DataStructure\src\Chapter2\Queue.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\Queue.dir
+  OBJECT_FILE_DIR = CMakeFiles\Queue.dir\src\DataStructure\src\Chapter2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Queue
+
+
+#############################################
+# Link the executable Queue.exe
+
+build Queue.exe: CXX_EXECUTABLE_LINKER__Queue_Debug CMakeFiles/Queue.dir/src/DataStructure/src/Chapter2/Queue.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Queue.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Queue.exe
+  TARGET_IMPLIB = libQueue.dll.a
+  TARGET_PDB = Queue.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Stack
+
+
+#############################################
+# Order-only phony target for Stack
+
+build cmake_object_order_depends_target_Stack: phony || CMakeFiles/Stack.dir
+
+build CMakeFiles/Stack.dir/src/DataStructure/src/Chapter2/Stack.cpp.obj: CXX_COMPILER__Stack_Debug D$:/Learning_notes/src/DataStructure/src/Chapter2/Stack.cpp || cmake_object_order_depends_target_Stack
+  DEP_FILE = CMakeFiles\Stack.dir\src\DataStructure\src\Chapter2\Stack.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\Stack.dir
+  OBJECT_FILE_DIR = CMakeFiles\Stack.dir\src\DataStructure\src\Chapter2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Stack
+
+
+#############################################
+# Link the executable Stack.exe
+
+build Stack.exe: CXX_EXECUTABLE_LINKER__Stack_Debug CMakeFiles/Stack.dir/src/DataStructure/src/Chapter2/Stack.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Stack.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Stack.exe
+  TARGET_IMPLIB = libStack.dll.a
+  TARGET_PDB = Stack.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target SqString
+
+
+#############################################
+# Order-only phony target for SqString
+
+build cmake_object_order_depends_target_SqString: phony || CMakeFiles/SqString.dir
+
+build CMakeFiles/SqString.dir/src/DataStructure/src/Chapter3/SqString.cpp.obj: CXX_COMPILER__SqString_Debug D$:/Learning_notes/src/DataStructure/src/Chapter3/SqString.cpp || cmake_object_order_depends_target_SqString
+  DEP_FILE = CMakeFiles\SqString.dir\src\DataStructure\src\Chapter3\SqString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\SqString.dir
+  OBJECT_FILE_DIR = CMakeFiles\SqString.dir\src\DataStructure\src\Chapter3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SqString
+
+
+#############################################
+# Link the executable SqString.exe
+
+build SqString.exe: CXX_EXECUTABLE_LINKER__SqString_Debug CMakeFiles/SqString.dir/src/DataStructure/src/Chapter3/SqString.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SqString.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SqString.exe
+  TARGET_IMPLIB = libSqString.dll.a
+  TARGET_PDB = SqString.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Learning_notes
 
 
@@ -52,101 +596,93 @@ build cmake_object_order_depends_target_Learning_notes: phony || CMakeFiles/Lear
 build CMakeFiles/Learning_notes.dir/src/CPP/funcTest.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/CPP/funcTest.cpp || cmake_object_order_depends_target_Learning_notes
   DEP_FILE = CMakeFiles\Learning_notes.dir\src\CPP\funcTest.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
-  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
   OBJECT_DIR = CMakeFiles\Learning_notes.dir
   OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\CPP
-  TARGET_COMPILE_PDB = CMakeFiles\Learning_notes.dir\
-  TARGET_PDB = Learning_notes.pdb
 
 build CMakeFiles/Learning_notes.dir/src/CPP/OtherNameTest.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/CPP/OtherNameTest.cpp || cmake_object_order_depends_target_Learning_notes
   DEP_FILE = CMakeFiles\Learning_notes.dir\src\CPP\OtherNameTest.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
-  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
   OBJECT_DIR = CMakeFiles\Learning_notes.dir
   OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\CPP
-  TARGET_COMPILE_PDB = CMakeFiles\Learning_notes.dir\
-  TARGET_PDB = Learning_notes.pdb
 
 build CMakeFiles/Learning_notes.dir/src/CPP/ReferenceTest.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/CPP/ReferenceTest.cpp || cmake_object_order_depends_target_Learning_notes
   DEP_FILE = CMakeFiles\Learning_notes.dir\src\CPP\ReferenceTest.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
-  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
   OBJECT_DIR = CMakeFiles\Learning_notes.dir
   OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\CPP
-  TARGET_COMPILE_PDB = CMakeFiles\Learning_notes.dir\
-  TARGET_PDB = Learning_notes.pdb
 
 build CMakeFiles/Learning_notes.dir/src/CPP/referenceTest1.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/CPP/referenceTest1.cpp || cmake_object_order_depends_target_Learning_notes
   DEP_FILE = CMakeFiles\Learning_notes.dir\src\CPP\referenceTest1.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
-  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
   OBJECT_DIR = CMakeFiles\Learning_notes.dir
   OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\CPP
-  TARGET_COMPILE_PDB = CMakeFiles\Learning_notes.dir\
-  TARGET_PDB = Learning_notes.pdb
 
 build CMakeFiles/Learning_notes.dir/src/CPP/StructTest.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/CPP/StructTest.cpp || cmake_object_order_depends_target_Learning_notes
   DEP_FILE = CMakeFiles\Learning_notes.dir\src\CPP\StructTest.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
-  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
   OBJECT_DIR = CMakeFiles\Learning_notes.dir
   OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\CPP
-  TARGET_COMPILE_PDB = CMakeFiles\Learning_notes.dir\
-  TARGET_PDB = Learning_notes.pdb
 
 build CMakeFiles/Learning_notes.dir/src/CPP/StructTest2.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/CPP/StructTest2.cpp || cmake_object_order_depends_target_Learning_notes
   DEP_FILE = CMakeFiles\Learning_notes.dir\src\CPP\StructTest2.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
-  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
   OBJECT_DIR = CMakeFiles\Learning_notes.dir
   OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\CPP
-  TARGET_COMPILE_PDB = CMakeFiles\Learning_notes.dir\
-  TARGET_PDB = Learning_notes.pdb
 
 build CMakeFiles/Learning_notes.dir/src/CPP/StudentTest.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/CPP/StudentTest.cpp || cmake_object_order_depends_target_Learning_notes
   DEP_FILE = CMakeFiles\Learning_notes.dir\src\CPP\StudentTest.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
-  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
   OBJECT_DIR = CMakeFiles\Learning_notes.dir
   OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\CPP
-  TARGET_COMPILE_PDB = CMakeFiles\Learning_notes.dir\
-  TARGET_PDB = Learning_notes.pdb
 
 build CMakeFiles/Learning_notes.dir/src/CPP/Test.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/CPP/Test.cpp || cmake_object_order_depends_target_Learning_notes
   DEP_FILE = CMakeFiles\Learning_notes.dir\src\CPP\Test.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
-  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
   OBJECT_DIR = CMakeFiles\Learning_notes.dir
   OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\CPP
-  TARGET_COMPILE_PDB = CMakeFiles\Learning_notes.dir\
-  TARGET_PDB = Learning_notes.pdb
 
 build CMakeFiles/Learning_notes.dir/src/DataStructure/src/Chapter1/LinkList.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/DataStructure/src/Chapter1/LinkList.cpp || cmake_object_order_depends_target_Learning_notes
   DEP_FILE = CMakeFiles\Learning_notes.dir\src\DataStructure\src\Chapter1\LinkList.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
-  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
   OBJECT_DIR = CMakeFiles\Learning_notes.dir
   OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\DataStructure\src\Chapter1
-  TARGET_COMPILE_PDB = CMakeFiles\Learning_notes.dir\
-  TARGET_PDB = Learning_notes.pdb
 
-build CMakeFiles/Learning_notes.dir/src/DataStructure/src/Chapter1/SqList.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/DataStructure/src/Chapter1/SqList.cpp || cmake_object_order_depends_target_Learning_notes
-  DEP_FILE = CMakeFiles\Learning_notes.dir\src\DataStructure\src\Chapter1\SqList.cpp.obj.d
+build CMakeFiles/Learning_notes.dir/src/DataStructure/src/Chapter1/MyLinkedList.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/DataStructure/src/Chapter1/MyLinkedList.cpp || cmake_object_order_depends_target_Learning_notes
+  DEP_FILE = CMakeFiles\Learning_notes.dir\src\DataStructure\src\Chapter1\MyLinkedList.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
-  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
   OBJECT_DIR = CMakeFiles\Learning_notes.dir
   OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\DataStructure\src\Chapter1
-  TARGET_COMPILE_PDB = CMakeFiles\Learning_notes.dir\
-  TARGET_PDB = Learning_notes.pdb
 
-build CMakeFiles/Learning_notes.dir/src/DataStructure/SinglyLinkedList.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/DataStructure/SinglyLinkedList.cpp || cmake_object_order_depends_target_Learning_notes
-  DEP_FILE = CMakeFiles\Learning_notes.dir\src\DataStructure\SinglyLinkedList.cpp.obj.d
+build CMakeFiles/Learning_notes.dir/src/DataStructure/src/Chapter2/Stack.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/DataStructure/src/Chapter2/Stack.cpp || cmake_object_order_depends_target_Learning_notes
+  DEP_FILE = CMakeFiles\Learning_notes.dir\src\DataStructure\src\Chapter2\Stack.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
-  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
   OBJECT_DIR = CMakeFiles\Learning_notes.dir
-  OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\DataStructure
-  TARGET_COMPILE_PDB = CMakeFiles\Learning_notes.dir\
-  TARGET_PDB = Learning_notes.pdb
+  OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\DataStructure\src\Chapter2
+
+build CMakeFiles/Learning_notes.dir/src/DataStructure/src/Chapter2/Queue.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/DataStructure/src/Chapter2/Queue.cpp || cmake_object_order_depends_target_Learning_notes
+  DEP_FILE = CMakeFiles\Learning_notes.dir\src\DataStructure\src\Chapter2\Queue.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\Learning_notes.dir
+  OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\DataStructure\src\Chapter2
+
+build CMakeFiles/Learning_notes.dir/src/DataStructure/src/Chapter3/SqString.cpp.obj: CXX_COMPILER__Learning_notes_Debug D$:/Learning_notes/src/DataStructure/src/Chapter3/SqString.cpp || cmake_object_order_depends_target_Learning_notes
+  DEP_FILE = CMakeFiles\Learning_notes.dir\src\DataStructure\src\Chapter3\SqString.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -ID:/Learning_notes/src/DataStructure -ID:/Learning_notes/src/DataStructure/src/Chapter1 -ID:/Learning_notes/src/DataStructure/src/Chapter2
+  OBJECT_DIR = CMakeFiles\Learning_notes.dir
+  OBJECT_FILE_DIR = CMakeFiles\Learning_notes.dir\src\DataStructure\src\Chapter3
 
 
 # =============================================================================
@@ -156,16 +692,15 @@ build CMakeFiles/Learning_notes.dir/src/DataStructure/SinglyLinkedList.cpp.obj: 
 #############################################
 # Link the executable Learning_notes.exe
 
-build Learning_notes.exe: CXX_EXECUTABLE_LINKER__Learning_notes_Debug CMakeFiles/Learning_notes.dir/src/CPP/funcTest.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/OtherNameTest.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/ReferenceTest.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/referenceTest1.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/StructTest.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/StructTest2.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/StudentTest.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/Test.cpp.obj CMakeFiles/Learning_notes.dir/src/DataStructure/src/Chapter1/LinkList.cpp.obj CMakeFiles/Learning_notes.dir/src/DataStructure/src/Chapter1/SqList.cpp.obj CMakeFiles/Learning_notes.dir/src/DataStructure/SinglyLinkedList.cpp.obj
+build Learning_notes.exe: CXX_EXECUTABLE_LINKER__Learning_notes_Debug CMakeFiles/Learning_notes.dir/src/CPP/funcTest.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/OtherNameTest.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/ReferenceTest.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/referenceTest1.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/StructTest.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/StructTest2.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/StudentTest.cpp.obj CMakeFiles/Learning_notes.dir/src/CPP/Test.cpp.obj CMakeFiles/Learning_notes.dir/src/DataStructure/src/Chapter1/LinkList.cpp.obj CMakeFiles/Learning_notes.dir/src/DataStructure/src/Chapter1/MyLinkedList.cpp.obj CMakeFiles/Learning_notes.dir/src/DataStructure/src/Chapter2/Stack.cpp.obj CMakeFiles/Learning_notes.dir/src/DataStructure/src/Chapter2/Queue.cpp.obj CMakeFiles/Learning_notes.dir/src/DataStructure/src/Chapter3/SqString.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Learning_notes.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\Learning_notes.dir\
   TARGET_FILE = Learning_notes.exe
   TARGET_IMPLIB = libLearning_notes.dll.a
-  TARGET_PDB = Learning_notes.pdb
+  TARGET_PDB = Learning_notes.exe.dbg
 
 
 #############################################
@@ -193,7 +728,39 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build CMakeCXXCompilerId: phony CMakeCXXCompilerId.exe
+
 build Learning_notes: phony Learning_notes.exe
+
+build LinkList: phony LinkList.exe
+
+build MyLinkedList: phony MyLinkedList.exe
+
+build OtherNameTest: phony OtherNameTest.exe
+
+build Queue: phony Queue.exe
+
+build ReferenceTest: phony ReferenceTest.exe
+
+build SinglyLinkedList: phony SinglyLinkedList.exe
+
+build SqList: phony SqList.exe
+
+build SqString: phony SqString.exe
+
+build Stack: phony Stack.exe
+
+build StructTest: phony StructTest.exe
+
+build StructTest2: phony StructTest2.exe
+
+build StudentTest: phony StudentTest.exe
+
+build Test: phony Test.exe
+
+build funcTest: phony funcTest.exe
+
+build referenceTest1: phony referenceTest1.exe
 
 # =============================================================================
 # Folder targets.
@@ -203,7 +770,7 @@ build Learning_notes: phony Learning_notes.exe
 #############################################
 # Folder: D:/Learning_notes/cmake-build-debug
 
-build all: phony Learning_notes.exe
+build all: phony CMakeCXXCompilerId.exe OtherNameTest.exe ReferenceTest.exe StructTest.exe StructTest2.exe StudentTest.exe Test.exe funcTest.exe referenceTest1.exe SinglyLinkedList.exe LinkList.exe MyLinkedList.exe SqList.exe Queue.exe Stack.exe SqString.exe Learning_notes.exe
 
 # =============================================================================
 # Built-in targets
@@ -212,14 +779,14 @@ build all: phony Learning_notes.exe
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeRCCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCCompiler.cmake.in D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCCompilerABI.c D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCXXCompiler.cmake.in D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCXXInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCompilerIdDetection.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompileFeatures.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerABI.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineRCCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineSystem.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeFindBinUtils.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeGenericSystem.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeParseImplicitIncludeInfo.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeParseImplicitLinkInfo.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeParseLibraryArchitecture.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeRCCompiler.cmake.in D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeRCInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeSystem.cmake.in D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeTestCXXCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeTestCompilerCommon.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeTestRCCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/ADSP-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/ARMCC-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/ARMClang-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/AppleClang-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Borland-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Bruce-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompilerInternal.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Compaq-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Cray-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Embarcadero-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Fujitsu-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GHS-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-C.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-FindBinUtils.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/HP-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/HP-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/IAR-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Intel-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/LCC-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/MSVC-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/NVHPC-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/NVIDIA-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/PGI-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/PathScale-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/SCO-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/SDCC-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/SunPro-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/TI-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Watcom-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/XL-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/XL-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/XLClang-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/zOS-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Internal/FeatureTesting.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-Determine-CXX.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-C.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-windres.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake D$:/Learning_notes/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeRCCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCXXInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeGenericSystem.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeRCInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-C.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-C.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-windres.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake D$:/Learning_notes/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeRCCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCCompiler.cmake.in D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCCompilerABI.c D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCXXCompiler.cmake.in D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCXXInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCompilerIdDetection.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompileFeatures.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerABI.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineRCCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeDetermineSystem.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeFindBinUtils.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeGenericSystem.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeParseImplicitIncludeInfo.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeParseImplicitLinkInfo.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeParseLibraryArchitecture.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeRCCompiler.cmake.in D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeRCInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeSystem.cmake.in D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeTestCXXCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeTestCompilerCommon.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeTestRCCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/ADSP-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/ARMCC-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/ARMClang-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/AppleClang-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Borland-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Bruce-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompilerInternal.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Compaq-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Cray-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Embarcadero-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Fujitsu-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GHS-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-C.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-FindBinUtils.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/HP-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/HP-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/IAR-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Intel-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/LCC-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/MSVC-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/NVHPC-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/NVIDIA-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/PGI-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/PathScale-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/SCO-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/SDCC-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/SunPro-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/TI-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/Watcom-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/XL-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/XL-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/XLClang-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/zOS-C-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Internal/FeatureTesting.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-Determine-CXX.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-C.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-windres.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake D$:/Learning_notes/CMakeLists.txt: phony
+build CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeRCCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCXXInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeGenericSystem.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeRCInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-C.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Compiler/GNU.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-C.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-GNU.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows-windres.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/Windows.cmake D$:/CLion$ 2022.3.1/bin/cmake/win/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake D$:/Learning_notes/CMakeLists.txt: phony
 
 
 #############################################

@@ -13,5 +13,5 @@
         "**/.DS_Store": true,
         "**/*.exe": true,      
       },
-    "C_Cpp.errorSquiggles": "enabled"
+    "C_Cpp.errorSquiggles": "disabled"
 }

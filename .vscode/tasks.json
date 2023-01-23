@@ -9,7 +9,9 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "-I",
+                "D:\\Learning_notes\\src\\DataStructure\\src\\Chapter1\\Predefined.h"
             ],
             "options": {
                 "cwd": "${fileDirname}"
