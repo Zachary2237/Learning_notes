@@ -118,9 +118,10 @@ int main() {
     T.ch[2] = 'b';
     T.ch[3] = 'a';
 
-    SString ss;
+    String ss;
     std::cout << ss.index_BF(S, T) << "\n";
 
 
     return 0;
+
 }
